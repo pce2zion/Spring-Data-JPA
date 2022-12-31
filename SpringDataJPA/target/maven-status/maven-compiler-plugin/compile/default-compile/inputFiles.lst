@@ -1,0 +1,10 @@
+/Users/home/Downloads/SpringDataJPA/src/main/java/com/example/springdatajpa/entity/Guardian.java
+/Users/home/Downloads/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/CourseRepository.java
+/Users/home/Downloads/SpringDataJPA/src/main/java/com/example/springdatajpa/SpringDataJpaApplication.java
+/Users/home/Downloads/SpringDataJPA/src/main/java/com/example/springdatajpa/entity/Course.java
+/Users/home/Downloads/SpringDataJPA/src/main/java/com/example/springdatajpa/entity/Student.java
+/Users/home/Downloads/SpringDataJPA/src/main/java/com/example/springdatajpa/entity/CourseMaterial.java
+/Users/home/Downloads/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/StudentRepository.java
+/Users/home/Downloads/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/TeacherRepository.java
+/Users/home/Downloads/SpringDataJPA/src/main/java/com/example/springdatajpa/entity/Teacher.java
+/Users/home/Downloads/SpringDataJPA/src/main/java/com/example/springdatajpa/repository/CourseMaterialRepository.java

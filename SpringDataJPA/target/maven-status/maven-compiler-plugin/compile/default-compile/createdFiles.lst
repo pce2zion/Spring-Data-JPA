@@ -1,0 +1,15 @@
+com/example/springdatajpa/entity/Course$CourseBuilder.class
+com/example/springdatajpa/entity/Guardian.class
+com/example/springdatajpa/entity/Guardian$GuardianBuilder.class
+com/example/springdatajpa/SpringDataJpaApplication.class
+com/example/springdatajpa/repository/CourseRepository.class
+com/example/springdatajpa/repository/CourseMaterialRepository.class
+com/example/springdatajpa/entity/CourseMaterial$CourseMaterialBuilder.class
+com/example/springdatajpa/repository/StudentRepository.class
+com/example/springdatajpa/entity/Teacher.class
+com/example/springdatajpa/entity/Student$StudentBuilder.class
+com/example/springdatajpa/entity/Student.class
+com/example/springdatajpa/repository/TeacherRepository.class
+com/example/springdatajpa/entity/Course.class
+com/example/springdatajpa/entity/CourseMaterial.class
+com/example/springdatajpa/entity/Teacher$TeacherBuilder.class
